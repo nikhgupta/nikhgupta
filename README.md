@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Nikhil!
+I'm Nikhil G.!
 
 👨‍💻 I'm an experienced **Ruby, Python, and React** developer with a keen understanding of business requirements.  
 👨‍💻 I do, occasionally, work with Elixir, Vimscript, and Lua, and even tested out [Emacs Lisp](https://github.com/nikhgupta/emacs-preamble) at some point.  
@@ -9,7 +9,7 @@ I'm Nikhil!
 🔭 I'm, currently, exploring Generative AI tools such as ChatGPT, Stable Diffusion, and Vector databases.  
 📫 The best way to reach out to me is via [Email](me@nikhgupta.com) or via [LinkedIn](https://linkedin.com/in/nikhgupta).
 
-⚡ Fun fact: I love [speedcubing](https://en.wikipedia.org/wiki/Speedcubing). So far, my best has been **48s to solve the Rubix Cube**.
+⚡ Fun fact: I enjoy [speedcubing](https://en.wikipedia.org/wiki/Speedcubing) and [Chess](https://www.chess.com/member/nikhgupta). So far, my best has been **48s to solve the Rubix Cube**.
 
 <!--
 **nikhgupta/nikhgupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
